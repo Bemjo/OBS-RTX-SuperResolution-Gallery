@@ -1,5 +1,6 @@
-## All Examples using Super Resolution use Strong, and using Upscaling has Strength set to 0.15. Artifact Reduction is Disabled.
+# This is an example gallery repository for [OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution)
 
+## All Examples using Super Resolution use Strong, and using Upscaling has Strength set to 0.15. Artifact Reduction is Disabled.
 
 Examples:  
 
