@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OBS-RTX-SuperResolution-Gallery/static/css/main.f28ac46a.css",
-    "main.js": "/OBS-RTX-SuperResolution-Gallery/static/js/main.d23ce3be.js",
+    "main.js": "/OBS-RTX-SuperResolution-Gallery/static/js/main.a3e6d775.js",
     "static/js/453.b888f1e8.chunk.js": "/OBS-RTX-SuperResolution-Gallery/static/js/453.b888f1e8.chunk.js",
     "index.html": "/OBS-RTX-SuperResolution-Gallery/index.html",
     "main.f28ac46a.css.map": "/OBS-RTX-SuperResolution-Gallery/static/css/main.f28ac46a.css.map",
-    "main.d23ce3be.js.map": "/OBS-RTX-SuperResolution-Gallery/static/js/main.d23ce3be.js.map",
+    "main.a3e6d775.js.map": "/OBS-RTX-SuperResolution-Gallery/static/js/main.a3e6d775.js.map",
     "453.b888f1e8.chunk.js.map": "/OBS-RTX-SuperResolution-Gallery/static/js/453.b888f1e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f28ac46a.css",
-    "static/js/main.d23ce3be.js"
+    "static/js/main.a3e6d775.js"
   ]
 }
